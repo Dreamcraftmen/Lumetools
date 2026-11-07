@@ -1,0 +1,17 @@
+{
+	"allnet_auth": {
+		"type": "1.0"
+	},
+	"allnet_accounting": {
+		"enable": false
+	},
+	"emoney": {
+		"enable": false
+	},
+	"aime": {
+		"high_baudrate": false
+	},
+	"abaas_log": {
+		"enable": false
+	}
+}
