@@ -15,6 +15,7 @@ Windows game folder  +  Lumetools  ->  runs on macOS
 
 ## Table of contents
 
+- [Compatibility](#compatibility)
 - [Background](#background)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -26,6 +27,15 @@ Windows game folder  +  Lumetools  ->  runs on macOS
 - [License](#license)
 
 ---
+
+## Compatibility
+
+Built and tested against this build. Other builds are untested.
+
+| Game ID | Version | Status |
+|---|---|---|
+| `SDHD` | 2.50 | Supported |
+| `SDHD` | other | Untested — may work, may need different hook versions |
 
 ## Background
 
