@@ -24,6 +24,7 @@ Windows game folder  +  Lumetools  ->  runs on macOS
 - [Repository layout](#repository-layout)
 - [Troubleshooting](#troubleshooting)
 - [FAQ](#faq)
+- [Credits](#credits)
 - [License](#license)
 
 ---
@@ -225,6 +226,11 @@ Yes, as long as it is a Windows 10 64-bit bottle named `Lumetools`.
 `bin/mac-run.log`, overwritten on every launch.
 
 ---
+
+## Credits
+
+Special thanks to the **fufubot segatools** project — its overlay DLLs and
+configuration format are what make this package possible.
 
 ## License
 
