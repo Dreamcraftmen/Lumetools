@@ -68,7 +68,7 @@ if [ -f "$BIN/fix-dll.reg" ]; then
 fi
 
 # --- 4. drives -------------------------------------------------------------
-mkdir -p "$HOME/Lumetools/Y/SDHD"
+mkdir -p "$HOME/Lumetools/Y"
 ln -sfn "$HOME/Lumetools/Y" "$BDIR/dosdevices/y:" 2>/dev/null
 if [ -d "$BIN/option" ]; then
     mkdir -p "$BDIR/drive_c/mount"
